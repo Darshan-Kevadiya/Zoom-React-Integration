@@ -23,7 +23,7 @@ const ZoomPage = () => {
     var sdkKey = 'ix437JttR_mP8m32IwqK9w'
     var meetingNumber = data?.MeetingNumber ?? ""
     var role = 0
-    var leaveUrl = 'http://localhost:3000'
+    var leaveUrl = 'https://candid-macaron-077fb4.netlify.app/'
     var userName = data?.UserName ?? ""
     var userEmail = ''
     var passWord = data?.passWord ?? ""
